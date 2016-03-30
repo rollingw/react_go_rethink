@@ -1,0 +1,19 @@
+{
+  "name": "rtsupport",
+  "version": "1.0.0",
+  "description": "Realtime support frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Gibbons <spsweet123@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "react": "^0.14.7",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+    "react-dom": "^0.14.7"
+  }
+}
