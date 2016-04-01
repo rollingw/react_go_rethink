@@ -18,7 +18,7 @@ class Channel extends Component{
 
 }
 Channel.propTypes = {
-	channel: React.PropTypes.object.isRequired
+	channel: React.PropTypes.object.isRequired, // missing comma
 	setChannel: React.PropTypes.func.isRequired
 }
 
